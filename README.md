@@ -9,3 +9,7 @@ w lokalnym terminalu wprowadź następującą komendę:
 - Dla HTTPS `git clone https://github.com/AGH-Code-Industry/sfi-warsztaty.git`
 
 Następnie pobrany projekt otwórz przy za pomocą **Unity** w wersji **2022.3.22f1**
+
+## Pobieranie Instrukcji 
+
+w głównym folderze znajduje się plik instrukcja.pdf.Jego zawartość przeprowadzi cię przez cały proces tworzenia platformówki.
