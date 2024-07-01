@@ -12,4 +12,4 @@ Następnie pobrany projekt otwórz przy za pomocą **Unity** w wersji **2022.3.2
 
 ## Pobieranie Instrukcji 
 
-w głównym folderze znajduje się plik instrukcja.pdf.Jego zawartość przeprowadzi cię przez cały proces tworzenia platformówki.
+w głównym folderze znajduje się plik _instrukcja.pdf_. Jego zawartość przeprowadzi cię przez cały proces tworzenia platformówki.
